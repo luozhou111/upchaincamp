@@ -1,0 +1,12 @@
+{
+  "goerli": {
+    "INIT": 0
+  },
+
+  "localdev": {
+    "INIT": 0
+  },
+  "polygon_test": {
+    "INIT": 0
+  }
+}
